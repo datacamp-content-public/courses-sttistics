@@ -13,24 +13,24 @@ xp: 100
 skills: 1
 ```
 
-Анечка, здесь тебе нужно будет создать вектор `temp` и поместить в него значения от 1 до 10.
+something is ehre and there and everyevewhere
 
 `@instructions`
-Создать вектор, содержащий значения от 1 до 10.
+Create a vector of values 1 thourhg 10
 
 `@hint`
-Используй операцию среза  sdf sdf sdf sdfsdfa  a(:)
+
 
 `@pre_exercise_code`
 ```{r}
-# Создай вектор `temp` и помести в него значения от 1 до 10.
+# Create vector 1:10
 
-# Выведи `temp`
+# Print temp
 ```
 
 `@sample_code`
 ```{r}
-temp <-    # здесь
+temp <-    # here
 ```
 
 `@solution`

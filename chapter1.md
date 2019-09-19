@@ -41,7 +41,6 @@ temp
 
 `@sct`
 ```{r}
-test_object("temp")
-test_output_contains("temp", incorrect_msg = "Make sure to print `temp`.")
-success_msg("You are my hero")
+ex() %>% check_object("temp") %>% check_equal()
+success_msg("Nice work! ")
 ```

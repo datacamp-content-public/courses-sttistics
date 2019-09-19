@@ -13,7 +13,7 @@ xp: 100
 skills: 1
 ```
 
-This is an example exercise.
+Это начало большего конца! Все работает отлично! и все все! 
 
 `@instructions`
 Create a vector `temp` of values 1 through 30 and display it Работает???

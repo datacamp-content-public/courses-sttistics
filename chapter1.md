@@ -42,5 +42,5 @@ temp
 `@sct`
 ```{r}
 ex() %>% check_object("temp") %>% check_equal()
-success_msg("Nice work! ")
+success_msg("Nice work!")
 ```

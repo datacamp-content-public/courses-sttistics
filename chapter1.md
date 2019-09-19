@@ -44,7 +44,5 @@ temp
 
 `@sct`
 ```{r}
-test_object("temp")
-test_output_contains("temp", incorrect_msg = "Make sure to print `a`.")
-success_msg("You are my hero")
+
 ```
